@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\project\SmartGenie\platforms\android\libs"/></dataSet><dataSet config="x86"><source path="D:\project\SmartGenie\platforms\android\src\x86\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\project\SmartGenie\platforms\android\src\debug\jniLibs"/></dataSet><dataSet config="x86Debug"><source path="D:\project\SmartGenie\platforms\android\src\x86Debug\jniLibs"/></dataSet></merger>

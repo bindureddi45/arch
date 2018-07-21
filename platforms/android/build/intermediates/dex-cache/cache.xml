@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\This PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\support-annotations-26.0.0-alpha1_aee2754302cd93916eb8aca8578f25e2aabad856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-compat-26.0.0-alpha1_eb01fb30c50c4f8db043302d0648d2eb3f0a51be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-fragment-26.0.0-alpha1_ce022c062226cea4824afddacf415fbe261787c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5e9dd3c14ce9ec0f48decd5f41f82909ce588860">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\CordovaLib-6.2.3-debug_71d35fa720517f6f72f5208dd6948c9dd67461b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.soundcloud.android\android-crop\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="7d59ba36bdb53bd81f4d16ed7e2abb47de5c53bd">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.soundcloud.android-android-crop-1.0.0_0ea3e1f1365eaa752fbc37e85e509f92085f98ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-v4-26.0.0-alpha1_c81d4fedf62ac7d19d9678c3408490dff4712cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-core-utils-26.0.0-alpha1_57ecd728812c4d23cf03b0e994111e01b9423059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\org.xwalk\xwalk_core_library\22.52.561.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5bf1ec53dd2de5e96afa465d31d75c3174bec78e">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\org.xwalk-xwalk_core_library-22.52.561.4_4a711f3c4d2b219852eb022037535eb66edc50b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-core-ui-26.0.0-alpha1_2b309d6fdd6988536e84f1733eaf48077a9226fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\SmartGenie\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\project\SmartGenie\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-media-compat-26.0.0-alpha1_c0596abec0077bc93a7d94a01eca5e7db99c6b59.jar" />
+    </item>
+
+</items>
